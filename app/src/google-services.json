@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207240824732",
+    "project_id": "uploadsaf-ccb27",
+    "storage_bucket": "uploadsaf-ccb27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207240824732:android:b74edd96fb99c02016ea59",
+        "android_client_info": {
+          "package_name": "br.senai.sp.saf_upload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNxuuIEZT3hY6tCi-H69T8s0FWQ7KnzaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
